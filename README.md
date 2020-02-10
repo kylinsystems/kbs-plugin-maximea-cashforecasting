@@ -1,4 +1,4 @@
-# KBS Plugin : Maximea SFinReport
+# KBS Plugin : Maximea Cashforecasting
 
 The fork from https://github.com/pshepetko/org.idempiere.cashforecasting, and converted to be installed via **KBS ObjectData Tool** 
 
